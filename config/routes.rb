@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  root to: "pages#home"
   # As a user, I can see all of my cafes
   # '/api/v1/cafes'
   # '/api/v2/cafes'
