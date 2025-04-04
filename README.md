@@ -1,6 +1,6 @@
-# ☕ Rails Café API
+# ☕ Café API
 
-The **Rails Café API** is a lightweight backend service designed to serve curated café data to any frontend client. Whether you're building a café discovery app or need café-related data for your project, this API provides structured JSON endpoints with useful data like location, opening hours, and amenities.
+The **Café API** is a lightweight backend service designed to serve curated café data to any frontend client. Whether you're building a café discovery app or need café-related data for your project, this API provides structured JSON endpoints with useful data like location, opening hours, and amenities.
 
 
 <br>
